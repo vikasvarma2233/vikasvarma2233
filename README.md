@@ -48,6 +48,7 @@ I'm an MCA student passionate about building web applications, learning new tech
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![PostMan](https://img.shields.io/badge/Git-F05022?style=for-the-badge&logo=git&logoColor=white)
 
 - Object-Oriented Programming (OOP)
 - Data Structures
